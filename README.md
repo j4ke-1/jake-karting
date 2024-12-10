@@ -16,6 +16,7 @@ Jake-Karting is a fully customizable karting script built for FiveM using the QB
 
 **Dependencies:**
 - QB-Core Framework
+- Polyzone
 
 **Location:**
 
