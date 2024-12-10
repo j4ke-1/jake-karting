@@ -21,4 +21,6 @@ Jake-Karting is a fully customizable karting script built for FiveM using the QB
 
 By postal 70-71 or right under maze bank arena.
 
+## Preview - https://www.youtube.com/watch?v=BV4S7Rpy_Bg
+
 Jake-Karting is perfect for adding a fun, competitive mini-game to your server. Whether you're hosting casual races or competitive tournaments, this script is sure to provide hours of entertainment!
